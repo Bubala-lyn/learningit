@@ -1,0 +1,784 @@
+{
+  "RECORDS": [
+    {
+      "knowledgeId": "47525",
+      "knowledgeName": "集合与元素"
+    },
+    {
+      "knowledgeId": "47526",
+      "knowledgeName": "集合的概念"
+    },
+    {
+      "knowledgeId": "47527",
+      "knowledgeName": "集合表示法"
+    },
+    {
+      "knowledgeId": "47528",
+      "knowledgeName": "区间"
+    },
+    {
+      "knowledgeId": "47529",
+      "knowledgeName": "集合之间的关系"
+    },
+    {
+      "knowledgeId": "47530",
+      "knowledgeName": "集合的相等"
+    },
+    {
+      "knowledgeId": "47532",
+      "knowledgeName": "集合的包含"
+    },
+    {
+      "knowledgeId": "47533",
+      "knowledgeName": "集合的运算"
+    },
+    {
+      "knowledgeId": "47534",
+      "knowledgeName": "集合的交集"
+    },
+    {
+      "knowledgeId": "47535",
+      "knowledgeName": "集合的并集"
+    },
+    {
+      "knowledgeId": "47537",
+      "knowledgeName": "集合的补集"
+    },
+    {
+      "knowledgeId": "47544",
+      "knowledgeName": "一元二次不等式"
+    },
+    {
+      "knowledgeId": "47545",
+      "knowledgeName": "用因式分解法解一元二次不等式"
+    },
+    {
+      "knowledgeId": "47546",
+      "knowledgeName": "一元二次不等式与二次函数、一元二次方程的关系"
+    },
+    {
+      "knowledgeId": "47549",
+      "knowledgeName": "绝对值的几何意义"
+    },
+    {
+      "knowledgeId": "47551",
+      "knowledgeName": "绝对值不等式"
+    },
+    {
+      "knowledgeId": "47555",
+      "knowledgeName": "结果是否需要满足正整数"
+    },
+    {
+      "knowledgeId": "47557",
+      "knowledgeName": "不等式建立是否有非负约束"
+    },
+    {
+      "knowledgeId": "47563",
+      "knowledgeName": "复数的四则运算"
+    },
+    {
+      "knowledgeId": "47565",
+      "knowledgeName": "实系数的一元二次方程的解"
+    },
+    {
+      "knowledgeId": "47567",
+      "knowledgeName": "空间几何体"
+    },
+    {
+      "knowledgeId": "47568",
+      "knowledgeName": "函数关系"
+    },
+    {
+      "knowledgeId": "47569",
+      "knowledgeName": "直观图与三视图"
+    },
+    {
+      "knowledgeId": "47570",
+      "knowledgeName": "函数的表示法"
+    },
+    {
+      "knowledgeId": "47571",
+      "knowledgeName": "表面积与体积"
+    },
+    {
+      "knowledgeId": "47572",
+      "knowledgeName": "函数关系的建立"
+    },
+    {
+      "knowledgeId": "47573",
+      "knowledgeName": "直线方程 "
+    },
+    {
+      "knowledgeId": "47574",
+      "knowledgeName": "两条直线的位置关系"
+    },
+    {
+      "knowledgeId": "47576",
+      "knowledgeName": "圆的方程 "
+    },
+    {
+      "knowledgeId": "47577",
+      "knowledgeName": "直线方程与圆方程的应用"
+    },
+    {
+      "knowledgeId": "47578",
+      "knowledgeName": "单调性"
+    },
+    {
+      "knowledgeId": "47579",
+      "knowledgeName": "奇偶性"
+    },
+    {
+      "knowledgeId": "47580",
+      "knowledgeName": "最大值/最小值"
+    },
+    {
+      "knowledgeId": "47581",
+      "knowledgeName": "数列的概念"
+    },
+    {
+      "knowledgeId": "47583",
+      "knowledgeName": "数列的通项"
+    },
+    {
+      "knowledgeId": "47584",
+      "knowledgeName": "统一的解析式"
+    },
+    {
+      "knowledgeId": "47585",
+      "knowledgeName": "数列的前n项和"
+    },
+    {
+      "knowledgeId": "47586",
+      "knowledgeName": "等差数列的概念"
+    },
+    {
+      "knowledgeId": "47587",
+      "knowledgeName": "幂函数特点"
+    },
+    {
+      "knowledgeId": "47588",
+      "knowledgeName": "等差中项"
+    },
+    {
+      "knowledgeId": "47589",
+      "knowledgeName": "等差数列的前n项和"
+    },
+    {
+      "knowledgeId": "47590",
+      "knowledgeName": "讨论函数分为四个方面"
+    },
+    {
+      "knowledgeId": "47591",
+      "knowledgeName": "等比数列的概念"
+    },
+    {
+      "knowledgeId": "47593",
+      "knowledgeName": "等比中项"
+    },
+    {
+      "knowledgeId": "47595",
+      "knowledgeName": "等比数列的前n项和"
+    },
+    {
+      "knowledgeId": "47596",
+      "knowledgeName": "实数指数幂及其运算"
+    },
+    {
+      "knowledgeId": "47598",
+      "knowledgeName": "向量的加法"
+    },
+    {
+      "knowledgeId": "47599",
+      "knowledgeName": "指数函数的概念"
+    },
+    {
+      "knowledgeId": "47600",
+      "knowledgeName": "向量的减法"
+    },
+    {
+      "knowledgeId": "47601",
+      "knowledgeName": "幂函数与指数函数的区别"
+    },
+    {
+      "knowledgeId": "47602",
+      "knowledgeName": "实数与向量的乘积"
+    },
+    {
+      "knowledgeId": "47604",
+      "knowledgeName": "指数函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47605",
+      "knowledgeName": "矩阵"
+    },
+    {
+      "knowledgeId": "47606",
+      "knowledgeName": "指数函数模型的简单应用"
+    },
+    {
+      "knowledgeId": "47607",
+      "knowledgeName": "几种常见的特殊矩阵"
+    },
+    {
+      "knowledgeId": "47609",
+      "knowledgeName": "矩阵的相等"
+    },
+    {
+      "knowledgeId": "47610",
+      "knowledgeName": "对数及其运算"
+    },
+    {
+      "knowledgeId": "47611",
+      "knowledgeName": "对数函数的概念"
+    },
+    {
+      "knowledgeId": "47612",
+      "knowledgeName": "矩阵的加法"
+    },
+    {
+      "knowledgeId": "47613",
+      "knowledgeName": "矩阵的减法"
+    },
+    {
+      "knowledgeId": "47614",
+      "knowledgeName": "对数函数的图像和性质 "
+    },
+    {
+      "knowledgeId": "47615",
+      "knowledgeName": "数与矩阵相乘"
+    },
+    {
+      "knowledgeId": "47616",
+      "knowledgeName": "对数函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47617",
+      "knowledgeName": "对数函数模型的简单应用"
+    },
+    {
+      "knowledgeId": "47618",
+      "knowledgeName": "复数"
+    },
+    {
+      "knowledgeId": "47619",
+      "knowledgeName": "复数的有关概念"
+    },
+    {
+      "knowledgeId": "47621",
+      "knowledgeName": "复数的加法减法"
+    },
+    {
+      "knowledgeId": "47622",
+      "knowledgeName": "正弦定理与余弦定理"
+    },
+    {
+      "knowledgeId": "47623",
+      "knowledgeName": "复数的乘法除法"
+    },
+    {
+      "knowledgeId": "47624",
+      "knowledgeName": "正弦定理"
+    },
+    {
+      "knowledgeId": "47625",
+      "knowledgeName": "余弦定理"
+    },
+    {
+      "knowledgeId": "47626",
+      "knowledgeName": "配方法解方程"
+    },
+    {
+      "knowledgeId": "47627",
+      "knowledgeName": "正弦与余弦定理的应用"
+    },
+    {
+      "knowledgeId": "47628",
+      "knowledgeName": "实系数一元二次方程的虚数根必成对出现"
+    },
+    {
+      "knowledgeId": "47629",
+      "knowledgeName": "函数y=Asin（bx+c）的图像与性质"
+    },
+    {
+      "knowledgeId": "47630",
+      "knowledgeName": "多面体"
+    },
+    {
+      "knowledgeId": "47631",
+      "knowledgeName": "旋转体"
+    },
+    {
+      "knowledgeId": "47632",
+      "knowledgeName": "简单的组合体"
+    },
+    {
+      "knowledgeId": "47633",
+      "knowledgeName": "斜二测画法"
+    },
+    {
+      "knowledgeId": "47634",
+      "knowledgeName": "三视图"
+    },
+    {
+      "knowledgeId": "47635",
+      "knowledgeName": "柱体的表面积和体积"
+    },
+    {
+      "knowledgeId": "47636",
+      "knowledgeName": "锥体的表面积和体积"
+    },
+    {
+      "knowledgeId": "47637",
+      "knowledgeName": "球的表面积和体积"
+    },
+    {
+      "knowledgeId": "47638",
+      "knowledgeName": "直线的倾斜角与斜率"
+    },
+    {
+      "knowledgeId": "47639",
+      "knowledgeName": "直线方程"
+    },
+    {
+      "knowledgeId": "47640",
+      "knowledgeName": "圆的方程"
+    },
+    {
+      "knowledgeId": "47641",
+      "knowledgeName": "圆与直线的位置关系"
+    },
+    {
+      "knowledgeId": "47642",
+      "knowledgeName": "直线方程的应用"
+    },
+    {
+      "knowledgeId": "47643",
+      "knowledgeName": "圆方程的应用"
+    },
+    {
+      "knowledgeId": "47644",
+      "knowledgeName": "函数图像"
+    },
+    {
+      "knowledgeId": "47645",
+      "knowledgeName": "函数性质"
+    },
+    {
+      "knowledgeId": "47646",
+      "knowledgeName": "余弦函数和正切函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47647",
+      "knowledgeName": "余弦函数的图像：余弦曲线"
+    },
+    {
+      "knowledgeId": "47648",
+      "knowledgeName": "余弦函数的性质"
+    },
+    {
+      "knowledgeId": "47649",
+      "knowledgeName": "正切函数的图像：正切曲线"
+    },
+    {
+      "knowledgeId": "47650",
+      "knowledgeName": "正切函数的性质"
+    },
+    {
+      "knowledgeId": "47651",
+      "knowledgeName": "正弦函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47652",
+      "knowledgeName": "正弦函数的图像：正弦曲线"
+    },
+    {
+      "knowledgeId": "47653",
+      "knowledgeName": "正弦函数的性质"
+    },
+    {
+      "knowledgeId": "47654",
+      "knowledgeName": "角的概念的推广"
+    },
+    {
+      "knowledgeId": "47655",
+      "knowledgeName": "零角"
+    },
+    {
+      "knowledgeId": "47656",
+      "knowledgeName": "正角"
+    },
+    {
+      "knowledgeId": "47657",
+      "knowledgeName": "负角"
+    },
+    {
+      "knowledgeId": "47659",
+      "knowledgeName": "弧度制"
+    },
+    {
+      "knowledgeId": "47660",
+      "knowledgeName": "象限角"
+    },
+    {
+      "knowledgeId": "47661",
+      "knowledgeName": "用弧度作单位来度量角"
+    },
+    {
+      "knowledgeId": "47662",
+      "knowledgeName": "弧度的意义"
+    },
+    {
+      "knowledgeId": "47663",
+      "knowledgeName": "正角的弧度数为正数，零角的弧度数为零，负角的弧度数为负"
+    },
+    {
+      "knowledgeId": "47665",
+      "knowledgeName": "任意三角比"
+    },
+    {
+      "knowledgeId": "47666",
+      "knowledgeName": "同角三角比"
+    },
+    {
+      "knowledgeId": "47667",
+      "knowledgeName": "简化公式"
+    },
+    {
+      "knowledgeId": "47668",
+      "knowledgeName": "向量的模"
+    },
+    {
+      "knowledgeId": "47669",
+      "knowledgeName": "相等的向量"
+    },
+    {
+      "knowledgeId": "47670",
+      "knowledgeName": "负向量"
+    },
+    {
+      "knowledgeId": "47671",
+      "knowledgeName": "零向量"
+    },
+    {
+      "knowledgeId": "47672",
+      "knowledgeName": "平行向量"
+    },
+    {
+      "knowledgeId": "47673",
+      "knowledgeName": "非零向量"
+    },
+    {
+      "knowledgeId": "47674",
+      "knowledgeName": "共线"
+    },
+    {
+      "knowledgeId": "47675",
+      "knowledgeName": "位置向量"
+    },
+    {
+      "knowledgeId": "47676",
+      "knowledgeName": "基本单位向量"
+    },
+    {
+      "knowledgeId": "47677",
+      "knowledgeName": "向量法求中点坐标"
+    },
+    {
+      "knowledgeId": "47678",
+      "knowledgeName": "两条直线平行"
+    },
+    {
+      "knowledgeId": "47679",
+      "knowledgeName": "两条直线垂直"
+    },
+    {
+      "knowledgeId": "47680",
+      "knowledgeName": "两条直线相交"
+    },
+    {
+      "knowledgeId": "47681",
+      "knowledgeName": "点到直线的距离"
+    },
+    {
+      "knowledgeId": "47682",
+      "knowledgeName": "直线到直线的距离"
+    },
+    {
+      "knowledgeId": "47683",
+      "knowledgeName": "性质一"
+    },
+    {
+      "knowledgeId": "47684",
+      "knowledgeName": "性质二"
+    },
+    {
+      "knowledgeId": "47685",
+      "knowledgeName": "性质三"
+    },
+    {
+      "knowledgeId": "47686",
+      "knowledgeName": "一元一次不等式"
+    },
+    {
+      "knowledgeId": "47687",
+      "knowledgeName": "一元一次不等式组"
+    },
+    {
+      "knowledgeId": "47688",
+      "knowledgeName": "三角诱导公式一"
+    },
+    {
+      "knowledgeId": "47689",
+      "knowledgeName": "三角诱导公式二"
+    },
+    {
+      "knowledgeId": "47690",
+      "knowledgeName": "三角诱导公式三"
+    },
+    {
+      "knowledgeId": "47691",
+      "knowledgeName": "三角诱导公式四"
+    },
+    {
+      "knowledgeId": "47692",
+      "knowledgeName": "三角诱导公式五"
+    },
+    {
+      "knowledgeId": "47693",
+      "knowledgeName": "三角诱导公式六"
+    },
+    {
+      "knowledgeId": "47695",
+      "knowledgeName": "乘法原理和加法原理"
+    },
+    {
+      "knowledgeId": "47696",
+      "knowledgeName": "乘法原理"
+    },
+    {
+      "knowledgeId": "47697",
+      "knowledgeName": "加法原理"
+    },
+    {
+      "knowledgeId": "47698",
+      "knowledgeName": "排列问题与组合问题"
+    },
+    {
+      "knowledgeId": "47699",
+      "knowledgeName": "排列问题"
+    },
+    {
+      "knowledgeId": "47700",
+      "knowledgeName": "组合问题"
+    },
+    {
+      "knowledgeId": "47701",
+      "knowledgeName": "排列数公式与组合数公式"
+    },
+    {
+      "knowledgeId": "47702",
+      "knowledgeName": "排列数公式"
+    },
+    {
+      "knowledgeId": "47703",
+      "knowledgeName": "组合数公式"
+    },
+    {
+      "knowledgeId": "47704",
+      "knowledgeName": "组合数性质"
+    },
+    {
+      "knowledgeId": "47705",
+      "knowledgeName": "排列应用问题与组合应用问题"
+    },
+    {
+      "knowledgeId": "47707",
+      "knowledgeName": "排列应用问题"
+    },
+    {
+      "knowledgeId": "47708",
+      "knowledgeName": "组合应用问题"
+    },
+    {
+      "knowledgeId": "47710",
+      "knowledgeName": "古典概型 "
+    },
+    {
+      "knowledgeId": "47711",
+      "knowledgeName": "随机现象与随机事件"
+    },
+    {
+      "knowledgeId": "47712",
+      "knowledgeName": "基本事件"
+    },
+    {
+      "knowledgeId": "47713",
+      "knowledgeName": "古典概型"
+    },
+    {
+      "knowledgeId": "47714",
+      "knowledgeName": "频率与概率"
+    },
+    {
+      "knowledgeId": "47715",
+      "knowledgeName": "频数"
+    },
+    {
+      "knowledgeId": "47716",
+      "knowledgeName": "频率"
+    },
+    {
+      "knowledgeId": "47717",
+      "knowledgeName": "概率"
+    },
+    {
+      "knowledgeId": "47718",
+      "knowledgeName": "概率的简单应用"
+    },
+    {
+      "knowledgeId": "47719",
+      "knowledgeName": "统计初步"
+    },
+    {
+      "knowledgeId": "47720",
+      "knowledgeName": "抽样方法"
+    },
+    {
+      "knowledgeId": "47721",
+      "knowledgeName": "样本的基本统计量"
+    },
+    {
+      "knowledgeId": "47722",
+      "knowledgeName": "统计图表"
+    },
+    {
+      "knowledgeId": "47723",
+      "knowledgeName": "频率分布表"
+    },
+    {
+      "knowledgeId": "47724",
+      "knowledgeName": "频率分布直方图"
+    },
+    {
+      "knowledgeId": "47727",
+      "knowledgeName": "流程框图的符号"
+    },
+    {
+      "knowledgeId": "47728",
+      "knowledgeName": "流程框图的规则"
+    },
+    {
+      "knowledgeId": "47730",
+      "knowledgeName": "顺序结构"
+    },
+    {
+      "knowledgeId": "47731",
+      "knowledgeName": "条件结构"
+    },
+    {
+      "knowledgeId": "47732",
+      "knowledgeName": "循环结构"
+    },
+    {
+      "knowledgeId": "47735",
+      "knowledgeName": "二元线性规划的概念 "
+    },
+    {
+      "knowledgeId": "47736",
+      "knowledgeName": "二元一次不等式（组）与平面区域"
+    },
+    {
+      "knowledgeId": "47737",
+      "knowledgeName": "二元线性规划的概念"
+    },
+    {
+      "knowledgeId": "47738",
+      "knowledgeName": "解二元线性规划问题"
+    },
+    {
+      "knowledgeId": "47739",
+      "knowledgeName": "二元线性规划问题的解"
+    },
+    {
+      "knowledgeId": "47740",
+      "knowledgeName": "二元线性规划的应用"
+    },
+    {
+      "knowledgeId": "47742",
+      "knowledgeName": "两角和与差的三角公式"
+    },
+    {
+      "knowledgeId": "47743",
+      "knowledgeName": "两角和与差的正弦"
+    },
+    {
+      "knowledgeId": "47744",
+      "knowledgeName": "两角和与差的余弦"
+    },
+    {
+      "knowledgeId": "47745",
+      "knowledgeName": "两角和与差的正切"
+    },
+    {
+      "knowledgeId": "47746",
+      "knowledgeName": "二倍角的三角公式"
+    },
+    {
+      "knowledgeId": "47747",
+      "knowledgeName": "二倍角的正弦公式"
+    },
+    {
+      "knowledgeId": "47748",
+      "knowledgeName": "二倍角的余弦公式"
+    },
+    {
+      "knowledgeId": "47749",
+      "knowledgeName": "二倍角的正切公式"
+    },
+    {
+      "knowledgeId": "47750",
+      "knowledgeName": "加法定理的简单应用"
+    },
+    {
+      "knowledgeId": "47753",
+      "knowledgeName": "椭圆及其标准方程"
+    },
+    {
+      "knowledgeId": "47754",
+      "knowledgeName": "椭圆的性质"
+    },
+    {
+      "knowledgeId": "47756",
+      "knowledgeName": "双曲线及其标准方程"
+    },
+    {
+      "knowledgeId": "47757",
+      "knowledgeName": "双曲线的性质"
+    },
+    {
+      "knowledgeId": "47758",
+      "knowledgeName": "双曲线的渐近线"
+    },
+    {
+      "knowledgeId": "47759",
+      "knowledgeName": "抛物线"
+    },
+    {
+      "knowledgeId": "47760",
+      "knowledgeName": "抛物线及其标准方程"
+    },
+    {
+      "knowledgeId": "47761",
+      "knowledgeName": "抛物线的性质"
+    },
+    {
+      "knowledgeId": "47762",
+      "knowledgeName": "抛物线方程的其他几种形式"
+    },
+    {
+      "knowledgeId": "47763",
+      "knowledgeName": "圆锥曲线的简单应用"
+    }
+  ]
+}

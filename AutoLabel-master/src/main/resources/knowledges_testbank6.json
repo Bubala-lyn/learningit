@@ -1,0 +1,492 @@
+{
+  "RECORDS": [
+    {
+      "knowledgeId": "16141",
+      "knowledgeName": "一般一元二次方程的解法（公式法）"
+    },
+    {
+      "knowledgeId": "16369",
+      "knowledgeName": "二次根式的加法和减法"
+    },
+    {
+      "knowledgeId": "17077",
+      "knowledgeName": "分式的基本性质"
+    },
+    {
+      "knowledgeId": "19641",
+      "knowledgeName": "同类二次根式"
+    },
+    {
+      "knowledgeId": "19936",
+      "knowledgeName": "真分数、假分数、带分数"
+    },
+    {
+      "knowledgeId": "19985",
+      "knowledgeName": "分式的化简求值"
+    },
+    {
+      "knowledgeId": "20633",
+      "knowledgeName": "二次根式的混合运算"
+    },
+    {
+      "knowledgeId": "21830",
+      "knowledgeName": "分数的乘法"
+    },
+    {
+      "knowledgeId": "22001",
+      "knowledgeName": "拓展：一元二次方程根与系数的关系"
+    },
+    {
+      "knowledgeId": "22683",
+      "knowledgeName": "二次根式的性质"
+    },
+    {
+      "knowledgeId": "23020",
+      "knowledgeName": "分式的乘除"
+    },
+    {
+      "knowledgeId": "24695",
+      "knowledgeName": "不等式的证明"
+    },
+    {
+      "knowledgeId": "24944",
+      "knowledgeName": "指数函数的图像与性质"
+    },
+    {
+      "knowledgeId": "25474",
+      "knowledgeName": "正数和负数的定义"
+    },
+    {
+      "knowledgeId": "25769",
+      "knowledgeName": "分数的大小比较"
+    },
+    {
+      "knowledgeId": "26227",
+      "knowledgeName": "分数的加减法"
+    },
+    {
+      "knowledgeId": "26309",
+      "knowledgeName": "最简二次根式"
+    },
+    {
+      "knowledgeId": "26482",
+      "knowledgeName": "分式的混合运算"
+    },
+    {
+      "knowledgeId": "28782",
+      "knowledgeName": "分式的值为零的条件"
+    },
+    {
+      "knowledgeId": "29124",
+      "knowledgeName": "分式的意义"
+    },
+    {
+      "knowledgeId": "30558",
+      "knowledgeName": "倒数"
+    },
+    {
+      "knowledgeId": "31337",
+      "knowledgeName": "一元二次方程根的判别式"
+    },
+    {
+      "knowledgeId": "31609",
+      "knowledgeName": "特殊一元二次方程的解法（换元法）"
+    },
+    {
+      "knowledgeId": "34982",
+      "knowledgeName": "充分条件，必要条件"
+    },
+    {
+      "knowledgeId": "35095",
+      "knowledgeName": "分数的基本性质"
+    },
+    {
+      "knowledgeId": "35576",
+      "knowledgeName": " 一般一元二次方程的解法（配方法）"
+    },
+    {
+      "knowledgeId": "35663",
+      "knowledgeName": "立方根和开立方"
+    },
+    {
+      "knowledgeId": "36603",
+      "knowledgeName": "对数与对数函数"
+    },
+    {
+      "knowledgeId": "37151",
+      "knowledgeName": "分数的除法"
+    },
+    {
+      "knowledgeId": "37287",
+      "knowledgeName": "二次根式的概念和性质"
+    },
+    {
+      "knowledgeId": "37303",
+      "knowledgeName": "列方程"
+    },
+    {
+      "knowledgeId": "37541",
+      "knowledgeName": "方程的解"
+    },
+    {
+      "knowledgeId": "41104",
+      "knowledgeName": "特殊一元二次方程的解法（开平方、因式分解法）"
+    },
+    {
+      "knowledgeId": "41189",
+      "knowledgeName": "分数的运算"
+    },
+    {
+      "knowledgeId": "41596",
+      "knowledgeName": "分数的意义和性质"
+    },
+    {
+      "knowledgeId": "42026",
+      "knowledgeName": "用计算器求一元二次方程的近似根"
+    },
+    {
+      "knowledgeId": "42948",
+      "knowledgeName": "子集与推出关系"
+    },
+    {
+      "knowledgeId": "45013",
+      "knowledgeName": "二次根式的概念"
+    },
+    {
+      "knowledgeId": "47473",
+      "knowledgeName": "代数式的化简"
+    },
+    {
+      "knowledgeId": "47474",
+      "knowledgeName": "代数式的求值"
+    },
+    {
+      "knowledgeId": "47476",
+      "knowledgeName": "等量关系与方程"
+    },
+    {
+      "knowledgeId": "47477",
+      "knowledgeName": "解方程"
+    },
+    {
+      "knowledgeId": "47478",
+      "knowledgeName": "根据方程的解的含义检验方程的解"
+    },
+    {
+      "knowledgeId": "47526",
+      "knowledgeName": "集合的概念"
+    },
+    {
+      "knowledgeId": "47527",
+      "knowledgeName": "集合表示法"
+    },
+    {
+      "knowledgeId": "47528",
+      "knowledgeName": "区间"
+    },
+    {
+      "knowledgeId": "47530",
+      "knowledgeName": "集合的相等"
+    },
+    {
+      "knowledgeId": "47532",
+      "knowledgeName": "集合的包含"
+    },
+    {
+      "knowledgeId": "47534",
+      "knowledgeName": "集合的交集"
+    },
+    {
+      "knowledgeId": "47535",
+      "knowledgeName": "集合的并集"
+    },
+    {
+      "knowledgeId": "47537",
+      "knowledgeName": "集合的补集"
+    },
+    {
+      "knowledgeId": "47544",
+      "knowledgeName": "一元二次不等式"
+    },
+    {
+      "knowledgeId": "47545",
+      "knowledgeName": "用因式分解法解一元二次不等式"
+    },
+    {
+      "knowledgeId": "47546",
+      "knowledgeName": "一元二次不等式与二次函数、一元二次方程的关系"
+    },
+    {
+      "knowledgeId": "47549",
+      "knowledgeName": "绝对值的几何意义"
+    },
+    {
+      "knowledgeId": "47551",
+      "knowledgeName": "绝对值不等式"
+    },
+    {
+      "knowledgeId": "47555",
+      "knowledgeName": "结果是否需要满足正整数"
+    },
+    {
+      "knowledgeId": "47557",
+      "knowledgeName": "不等式建立是否有非负约束"
+    },
+    {
+      "knowledgeId": "47559",
+      "knowledgeName": "向量的应用"
+    },
+    {
+      "knowledgeId": "47568",
+      "knowledgeName": "函数关系"
+    },
+    {
+      "knowledgeId": "47570",
+      "knowledgeName": "函数的表示法"
+    },
+    {
+      "knowledgeId": "47572",
+      "knowledgeName": "函数关系的建立"
+    },
+    {
+      "knowledgeId": "47578",
+      "knowledgeName": "单调性"
+    },
+    {
+      "knowledgeId": "47579",
+      "knowledgeName": "奇偶性"
+    },
+    {
+      "knowledgeId": "47580",
+      "knowledgeName": "最大值/最小值"
+    },
+    {
+      "knowledgeId": "47583",
+      "knowledgeName": "数列的通项"
+    },
+    {
+      "knowledgeId": "47584",
+      "knowledgeName": "统一的解析式"
+    },
+    {
+      "knowledgeId": "47586",
+      "knowledgeName": "等差数列的概念"
+    },
+    {
+      "knowledgeId": "47587",
+      "knowledgeName": "幂函数特点"
+    },
+    {
+      "knowledgeId": "47588",
+      "knowledgeName": "等差中项"
+    },
+    {
+      "knowledgeId": "47589",
+      "knowledgeName": "等差数列的前n项和"
+    },
+    {
+      "knowledgeId": "47591",
+      "knowledgeName": "等比数列的概念"
+    },
+    {
+      "knowledgeId": "47593",
+      "knowledgeName": "等比中项"
+    },
+    {
+      "knowledgeId": "47595",
+      "knowledgeName": "等比数列的前n项和"
+    },
+    {
+      "knowledgeId": "47596",
+      "knowledgeName": "实数指数幂及其运算"
+    },
+    {
+      "knowledgeId": "47598",
+      "knowledgeName": "向量的加法"
+    },
+    {
+      "knowledgeId": "47599",
+      "knowledgeName": "指数函数的概念"
+    },
+    {
+      "knowledgeId": "47600",
+      "knowledgeName": "向量的减法"
+    },
+    {
+      "knowledgeId": "47601",
+      "knowledgeName": "幂函数与指数函数的区别"
+    },
+    {
+      "knowledgeId": "47602",
+      "knowledgeName": "实数与向量的乘积"
+    },
+    {
+      "knowledgeId": "47604",
+      "knowledgeName": "指数函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47605",
+      "knowledgeName": "矩阵"
+    },
+    {
+      "knowledgeId": "47610",
+      "knowledgeName": "对数及其运算"
+    },
+    {
+      "knowledgeId": "47611",
+      "knowledgeName": "对数函数的概念"
+    },
+    {
+      "knowledgeId": "47612",
+      "knowledgeName": "矩阵的加法"
+    },
+    {
+      "knowledgeId": "47616",
+      "knowledgeName": "对数函数的图像与性质"
+    },
+    {
+      "knowledgeId": "47618",
+      "knowledgeName": "复数"
+    },
+    {
+      "knowledgeId": "47619",
+      "knowledgeName": "复数的有关概念"
+    },
+    {
+      "knowledgeId": "47627",
+      "knowledgeName": "正弦与余弦定理的应用"
+    },
+    {
+      "knowledgeId": "47628",
+      "knowledgeName": "实系数一元二次方程的虚数根必成对出现"
+    },
+    {
+      "knowledgeId": "47630",
+      "knowledgeName": "多面体"
+    },
+    {
+      "knowledgeId": "47632",
+      "knowledgeName": "简单的组合体"
+    },
+    {
+      "knowledgeId": "47634",
+      "knowledgeName": "三视图"
+    },
+    {
+      "knowledgeId": "47638",
+      "knowledgeName": "直线的倾斜角与斜率"
+    },
+    {
+      "knowledgeId": "47639",
+      "knowledgeName": "直线方程"
+    },
+    {
+      "knowledgeId": "47640",
+      "knowledgeName": "圆的方程"
+    },
+    {
+      "knowledgeId": "47642",
+      "knowledgeName": "直线方程的应用"
+    },
+    {
+      "knowledgeId": "47643",
+      "knowledgeName": "圆方程的应用"
+    },
+    {
+      "knowledgeId": "47644",
+      "knowledgeName": "函数图像"
+    },
+    {
+      "knowledgeId": "47645",
+      "knowledgeName": "函数性质"
+    },
+    {
+      "knowledgeId": "47650",
+      "knowledgeName": "正切函数的性质"
+    },
+    {
+      "knowledgeId": "47656",
+      "knowledgeName": "正角"
+    },
+    {
+      "knowledgeId": "47657",
+      "knowledgeName": "负角"
+    },
+    {
+      "knowledgeId": "47660",
+      "knowledgeName": "象限角"
+    },
+    {
+      "knowledgeId": "47661",
+      "knowledgeName": "用弧度作单位来度量角"
+    },
+    {
+      "knowledgeId": "47666",
+      "knowledgeName": "同角三角比"
+    },
+    {
+      "knowledgeId": "47668",
+      "knowledgeName": "向量的模"
+    },
+    {
+      "knowledgeId": "47681",
+      "knowledgeName": "点到直线的距离"
+    },
+    {
+      "knowledgeId": "47683",
+      "knowledgeName": "性质一"
+    },
+    {
+      "knowledgeId": "47684",
+      "knowledgeName": "性质二"
+    },
+    {
+      "knowledgeId": "47685",
+      "knowledgeName": "性质三"
+    },
+    {
+      "knowledgeId": "47686",
+      "knowledgeName": "一元一次不等式"
+    },
+    {
+      "knowledgeId": "47687",
+      "knowledgeName": "一元一次不等式组"
+    },
+    {
+      "knowledgeId": "47697",
+      "knowledgeName": "加法原理"
+    },
+    {
+      "knowledgeId": "47699",
+      "knowledgeName": "排列问题"
+    },
+    {
+      "knowledgeId": "47700",
+      "knowledgeName": "组合问题"
+    },
+    {
+      "knowledgeId": "47720",
+      "knowledgeName": "抽样方法"
+    },
+    {
+      "knowledgeId": "47728",
+      "knowledgeName": "流程框图的规则"
+    },
+    {
+      "knowledgeId": "47736",
+      "knowledgeName": "二元一次不等式（组）与平面区域"
+    },
+    {
+      "knowledgeId": "47753",
+      "knowledgeName": "椭圆及其标准方程"
+    },
+    {
+      "knowledgeId": "47754",
+      "knowledgeName": "椭圆的性质"
+    },
+    {
+      "knowledgeId": "47761",
+      "knowledgeName": "抛物线的性质"
+    }
+  ]
+}

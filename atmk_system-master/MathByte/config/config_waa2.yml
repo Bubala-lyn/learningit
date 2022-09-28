@@ -1,0 +1,14 @@
+cache_file_h5py: '../file_data/word_a_a_2/math_data.h5'
+cache_file_pickle: '../file_data/word_a_a_2/vocab_label.pkl'
+embeddings: '../file_data/word_a_a_2/embeddings.pkl'
+model_labs_h5py: '../file_data/word_a_a_2/best_model_labs.h5'
+model_lbs_h5py: '../file_data/word_a_a_2/best_model_lbs.h5'
+model_lab_h5py: '../file_data/word_a_a_2/best_model_lab.h5'
+model_b_h5py: '../file_data/word_a_a_2/best_model_b.h5'
+maxlen: 100 # 句子最大长度
+emb_size: 300
+epochs: 40
+batch_size: 512 # 批处理尺寸, 感觉原则上越大越好,尤其是样本不均衡的时候, batch_size设置影响比较大
+alpha: 4 # new model 的 loss 中的 alpha
+hidden_size: 512 # lstm
+lcm_stop: 50

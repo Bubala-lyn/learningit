@@ -1,0 +1,9 @@
+cache_file_h5py: '../file_data/a2/math_data.h5'
+cache_file_pickle: '../file_data/a2/vocab_label.pkl'
+embeddings: '../file_data/a2/embeddings.pkl'
+maxlen: 120 # 句子最大长度
+emb_size: 300
+epochs: 200
+batch_size: 512 # 批处理尺寸, 感觉原则上越大越好,尤其是样本不均衡的时候, batch_size设置影响比较大
+alpha: 4 # new model 的 loss 中的 alpha
+hidden_size: 512 # lstm

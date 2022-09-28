@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>logo.png">
+    <title>ATMK研究平台</title>
+    <style>.first-loading-wrp{position:fixed;top:0;left:0;right:0;bottom:0;padding:0;margin:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#2f54eb;}.first-loading-wrp .loading{position:relative;width:160px;height:80px}.first-loading-wrp .loading:before,.first-loading-wrp .loading:after{content:'';display:block;position:absolute;height:5px;width:100%;border-radius:10px;background-color:#fff;top:50%;left:0;animation:width 1s linear infinite}.first-loading-wrp .loading:after{animation-delay:-0.3s}@keyframes width{0%{width:0;left:50%;opacity:1}90%{width:100%;left:0;opacity:0}100%{opacity:0}}</style>
+    <!-- require cdn assets css -->
+    <% for (var i in htmlWebpackPlugin.options.cdn && htmlWebpackPlugin.options.cdn.css) { %>
+    <link rel="stylesheet" href="<%= htmlWebpackPlugin.options.cdn.css[i] %>" />
+    <% } %>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but vue-antd-pro doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app">
+      <div class="first-loading-wrp"><div class="loading"></div></div>
+    </div>
+    <!-- require cdn assets js -->
+    <% for (var i in htmlWebpackPlugin.options.cdn && htmlWebpackPlugin.options.cdn.js) { %>
+    <script type="text/javascript" src="<%= htmlWebpackPlugin.options.cdn.js[i] %>"></script>
+    <% } %>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
